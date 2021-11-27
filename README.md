@@ -12,8 +12,9 @@ I made this portfolio in order to showcase my skills to potential employers. It 
 ## Technologies Used
 - Python 3
 - SQL
-- Microsoft SQL Server Management Studio
+- Microsoft SQL Server
 - [Tableau Public](https://public.tableau.com/views/COVIDInfectionsDeathsDashboard/Dashboard1?:language=en-US&:retry=yes&:display_count=n&:origin=viz_share_link)
+- LibreOffice Calc
 
 
 ## Showcased Skills
