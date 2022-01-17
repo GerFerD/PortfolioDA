@@ -23,7 +23,7 @@ I made this portfolio in order to showcase my skills to potential employers. It 
 ## Portfolio Status
 Porfolio is nearly complete.
 Working on:
-- "Data Cleaning and Exploration Project Using Pandas"
+- Finishing "Data Cleaning and Exploration Project Using Pandas"
 - Adding at least 2 more Tableau dashboards
 ### List of Planned Projects:
 - SQL data exploration
