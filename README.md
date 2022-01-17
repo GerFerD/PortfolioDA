@@ -34,8 +34,5 @@ Working on:
 - Adding at least 2 more Tableau dashboards
 
 ## Contact
-Email: Gerardofd1079@gmail.com
-
-</br>
-
-[Linkedin](linkedin.com/in/gerardo-fernandez/)
+- Email: Gerardofd1079@gmail.com
+- [Linkedin](linkedin.com/in/gerardo-fernandez/)
