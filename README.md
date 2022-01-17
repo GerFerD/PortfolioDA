@@ -4,6 +4,7 @@ I made this portfolio in order to showcase my skills to potential employers. It 
 ## Table of Contents
 * [Technologies Used](#technologies-used)
 * [Showcased Skills](#showcased-skills)
+* [Planned Projects](#planned-projects)
 * [Portfolio Status](#portfolio-status)
 * [Contact](#contact)
 
@@ -20,16 +21,17 @@ I made this portfolio in order to showcase my skills to potential employers. It 
 - Data Visualization (using Python and Tableau)
 - Statistical Analysis
 
+## Planned Projects:
+- SQL data exploration
+- SQL data cleaning
+- Python data cleaning/exploration/visualization/analysis
+- Link to at least 3 Tableau dashboards
+
 ## Portfolio Status
 Porfolio is nearly complete.
 Working on:
 - Finishing "Data Cleaning and Exploration Project Using Pandas"
 - Adding at least 2 more Tableau dashboards
-### List of Planned Projects:
-- SQL data exploration
-- SQL data cleaning
-- Python data cleaning/exploration/visualization/analysis
-- Link to at least 3 Tableau dashboards
 
 ## Contact
 Email: Gerardofd1079@gmail.com
