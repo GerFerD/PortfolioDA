@@ -35,3 +35,4 @@ Working on:
 
 ## Contact
 Email: Gerardofd1079@gmail.com
+[Linkedin](linkedin.com/in/gerardo-fernandez/)
